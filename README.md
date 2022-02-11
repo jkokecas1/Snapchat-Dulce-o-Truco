@@ -4,7 +4,7 @@ _Un lente en Learn Studio con l atematica de dia de muertos_
 [![cala.png](https://i.postimg.cc/vHNWjD5p/cala.png)](https://postimg.cc/PP1pvX34)
 
 
-[Portal a Halloween](https://lens.snapchat.com/b13bd5247ffc4f149fb3a498fccd6fea) - Dulce o truco
+[Dulce o truco](https://lens.snapchat.com/f0afdaa5086848b5bdd6420ad11373a4) - Dulce o truco
 ## Comenzando 🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
